@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97555" started-at="2018-05-09T13:51:20Z" finished-at="2018-05-09T13:52:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97555" started-at="2018-05-09T13:51:20Z" finished-at="2018-05-09T13:52:58Z">
+      <class name="famework.puma.TestLogin">
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:famework.puma.TestLogin@5e3a8624]" name="Logintest" duration-ms="97475" started-at="2018-05-09T19:21:20Z" finished-at="2018-05-09T19:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+      </class> <!-- famework.puma.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
